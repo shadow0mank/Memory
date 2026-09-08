@@ -2,6 +2,7 @@
   "name": "MémoireAI",
   "description": "Assistant de mise en forme académique et audit de conformité de mémoires et thèses avec IA",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
